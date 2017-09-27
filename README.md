@@ -1,2 +1,3 @@
 # collaborative_workshop_materials
-contains files for use in class
+This repository contains files for use in class. 
+File workflow_case_study contains partial naming workflow for the case study "Advanced Life-Support for Inhospitable Environments in Space" from the New England Collaborative Data Management Curriculum. 
